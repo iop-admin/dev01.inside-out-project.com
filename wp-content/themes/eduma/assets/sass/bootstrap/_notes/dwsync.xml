@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="_alerts.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658204929833" remote="132118332000000000" Dst="2" />
+<file name="_badges.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658205949863" remote="132118332000000000" Dst="2" />
+<file name="_bootstrap.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658207989823" remote="132118332000000000" Dst="2" />
+<file name="_button-groups.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658209969823" remote="132118332000000000" Dst="2" />
+<file name="_buttons.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658210939838" remote="132118332000000000" Dst="2" />
+<file name="_breadcrumbs.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658213104829" remote="132118332000000000" Dst="2" />
+<file name="_close.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658216934887" remote="132118332000000000" Dst="2" />
+<file name="_carousel.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658216964816" remote="132118332000000000" Dst="2" />
+<file name="_code.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658218934842" remote="132118332000000000" Dst="2" />
+<file name="_component-animations.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658221944843" remote="132118332000000000" Dst="2" />
+<file name="_dropdowns.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658221974822" remote="132118332000000000" Dst="2" />
+<file name="_forms.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658223929850" remote="132118332000000000" Dst="2" />
+<file name="_grid.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658224964835" remote="132118332000000000" Dst="2" />
+<file name="_glyphicons.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658226014851" remote="132118332000000000" Dst="2" />
+<file name="_input-groups.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658227934852" remote="132118332000000000" Dst="2" />
+<file name="_jumbotron.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658228954848" remote="132118332000000000" Dst="2" />
+<file name="_labels.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658228979858" remote="132118332000000000" Dst="2" />
+<file name="_list-group.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658231914845" remote="132118332000000000" Dst="2" />
+<file name="_media.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658232984852" remote="132118332000000000" Dst="2" />
+<file name="_mixins.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658234039813" remote="132118332000000000" Dst="2" />
+<file name="_modals.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658236289850" remote="132118332000000000" Dst="2" />
+<file name="_navs.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658237949851" remote="132118332000000000" Dst="2" />
+<file name="_navbar.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658237979831" remote="132118332000000000" Dst="2" />
+<file name="_normalize.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658238919840" remote="132118332000000000" Dst="2" />
+<file name="_pager.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658240964858" remote="132118332000000000" Dst="2" />
+<file name="_pagination.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658240989831" remote="132118332000000000" Dst="2" />
+<file name="_popovers.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658243939824" remote="132118332000000000" Dst="2" />
+<file name="_panels.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658243959833" remote="132118332000000000" Dst="2" />
+<file name="_print.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658244964853" remote="132118332000000000" Dst="2" />
+<file name="_progress-bars.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658247974911" remote="132118332000000000" Dst="2" />
+<file name="_responsive-embed.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658249939840" remote="132118332000000000" Dst="2" />
+<file name="_responsive-utilities.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658249974859" remote="132118332000000000" Dst="2" />
+<file name="_scaffolding.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658251954871" remote="132118332000000000" Dst="2" />
+<file name="_tables.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658252979860" remote="132118332000000000" Dst="2" />
+<file name="_thumbnails.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658254964864" remote="132118332000000000" Dst="2" />
+<file name="_theme.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658255014839" remote="132118332000000000" Dst="2" />
+<file name="_tooltip.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658256934843" remote="132118332000000000" Dst="2" />
+<file name="_utilities.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658258944831" remote="132118332000000000" Dst="2" />
+<file name="_variables.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658259949847" remote="132118332000000000" Dst="2" />
+<file name="_type.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658260029848" remote="132118332000000000" Dst="2" />
+<file name="_wells.scss" server="dev01.inside-out-project.com/dev01.inside-out-project.com/" local="132127658262969846" remote="132118332000000000" Dst="2" />
+</dwsync>

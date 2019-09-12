@@ -1,0 +1,25 @@
+/*
+ *  Usage:
+ *
+      <div class="sk-rotating-plane"></div>
+ *
+ */
+/*
+ * Variables for preloading */
+.sk-rotating-plane {
+  width: 40px;
+  height: 40px;
+  background-color: #ffb606;
+  margin: 40px auto;
+  animation: sk-rotatePlane 1.2s infinite ease-in-out;
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%); }
+
+@keyframes sk-rotatePlane {
+  0% {
+    transform: perspective(120px) rotateX(0deg) rotateY(0deg); }
+  50% {
+    transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg); }
+  100% {
+    transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg); } }
